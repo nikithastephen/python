@@ -7,8 +7,8 @@ p=int(input("enter the principle amount:"))
 t=int(input("Enter the number of years:"))
 a=int(input("Enter the age:"))
 if a>=60:
-    print("SIMPLE INTEREST",senior(p,t))
+    print("SIMPLE INTEREST:",senior(p,t))
 else:
-    print("SIMPLE INTEREST",senior(p,t))
+    print("SIMPLE INTEREST:",senior(p,t))
 
 
